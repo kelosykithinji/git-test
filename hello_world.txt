@@ -1,0 +1,2 @@
+This is my first text in this file
+It's really fun working with VS Code and Odin
